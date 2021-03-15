@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40.09" height="32.97" viewBox="0 0 40.09 32.97">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        fill: url(#linear-gradient);
+        filter: url(#filter);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1831.56" y1="1058.03" x2="1864.53" y2="1091" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <filter id="filter" x="1828" y="1058.03" width="40.09" height="32.97" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#ff3b4a"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Diamond" class="cls-1" d="M1868.08,1068.45a0.689,0.689,0,0,0-.03-0.08,1.492,1.492,0,0,0-.02-0.21l-4.12-9.69a0.731,0.731,0,0,0-.67-0.44h-30.4a0.721,0.721,0,0,0-.67.44l-4.12,9.69a0.761,0.761,0,0,0-.03.21,0.689,0.689,0,0,0-.03.08,0.147,0.147,0,0,1,.02.04,0.672,0.672,0,0,0,.16.43l19.32,21.83a0.311,0.311,0,0,1,.06.04c0.06,0.04.1,0.08,0.16,0.12a0.138,0.138,0,0,0,.04.03,0.706,0.706,0,0,0,.28.06,0.8,0.8,0,0,0,.3-0.06,0.062,0.062,0,0,0,.03-0.04,0.906,0.906,0,0,0,.16-0.11,0.311,0.311,0,0,1,.06-0.04l19.32-21.83a0.743,0.743,0,0,0,.17-0.43A0.227,0.227,0,0,1,1868.08,1068.45Zm-15.12-8.98,3.56,8.26h-16.96l3.55-8.26h9.85Zm3.55,9.7-8.48,19.3-8.46-19.3h16.94Zm-18.53,0,7.53,17.17-15.19-17.17h7.66Zm20.11,0h7.66l-15.19,17.17Zm8.18-1.44h-8.18l-3.55-8.26h8.22Zm-32.95-8.26h8.22l-3.56,8.26h-8.17Z" transform="translate(-1828 -1058.03)"/>
+</svg>
